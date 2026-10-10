@@ -1,0 +1,6 @@
+{
+  "name": "AgriTourism - Farm. Connect. Experience.",
+  "description": "Explore local farms, book farm tours, shop fresh local produce, and empower local farming communities across the Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
